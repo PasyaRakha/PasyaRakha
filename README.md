@@ -49,6 +49,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PasyaRakha/PasyaRakha/output/snake.svg" alt="Snake animation" />
-
 ###
